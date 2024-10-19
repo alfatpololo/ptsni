@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import CountUp from 'react-countup';
 import LikeShape from "/public/images/slider/like.svg"
-import liderd12 from "/public/images/slider/1.png"
+import liderd12 from "/public/images/slider/1.jpg"
 import Arrow from "/public/images/slider/award.svg"
 
 
@@ -61,7 +61,7 @@ const Hero = () => {
                     </svg>
                 </div>
             </div>
-            <div className="hero-slider">
+            {/* <div className="hero-slider">
                 <Slider {...Seting}>
                     <div className="item" >
                         <Image src={himg1} alt="" />
@@ -79,7 +79,7 @@ const Hero = () => {
                         <Image src={himg5} alt="" />
                     </div>
                 </Slider>
-            </div>
+            </div> */}
             <div className="award">
                 <div className="icon">
                     <Image src={Arrow} alt="" />
