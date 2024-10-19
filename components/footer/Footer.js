@@ -90,7 +90,7 @@ const Footer = (props) => {
                 <div className="container">
                     <div className="row g-0">
                         <div className="col col-lg-6 col-12">
-                            <p className="copyright"> Copyright &copy; 2024 Manit by All
+                            <p className="copyright"> Copyright &copy; 2024 Manit b All
                                 Rights Reserved.</p>
                         </div>
                         <div className="col col-lg-6 col-12">

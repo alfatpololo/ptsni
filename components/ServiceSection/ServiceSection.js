@@ -2,7 +2,7 @@ import React from "react";
 import Services from "../../api/Services";
 import SectionTitle from "../SectionTitle/SectionTitle";
 import ServiceCard from "./ServiceCard"
-import ShapeOn from '/public/images/services/bg.jpg'
+import ShapeOn from '/public/images/services/services.jpg'
 import Image from "next/image";
 
 
